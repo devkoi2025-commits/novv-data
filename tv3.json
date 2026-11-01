@@ -36,11 +36,6 @@
       "image": "https://placehold.co/400x400/1565c0/ffffff/png?text=ABEMA+News"
     },
     {
-      "id": 8,
-      "name": "ABEMA Sports",
-      "image": "https://placehold.co/400x400/2e7d32/ffffff/png?text=ABEMA+Sports"
-    },
-    {
       "id": 9,
       "name": "ABEMA Variety",
       "image": "https://placehold.co/400x400/ef6c00/ffffff/png?text=ABEMA+Variety"
@@ -1344,42 +1339,6 @@
       "featured": false
     },
     {
-      "id": 109,
-      "name": "SPORTSチャンネル",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/abema/world-sports.png",
-      "stream_url": "https://linear-abematv.akamaized.net/preview/channel/world-sports/playlist.m3u8",
-      "stream_type": "hls",
-      "category_id": 8,
-      "country": "Japan",
-      "description": "SPORTSチャンネルは、さまざまなスポーツを楽しめるABEMAのスポーツ専門チャンネルです。競技の迫力やアスリートたちの熱い戦いに触れられます。\n\n試合の緊張感や歓喜の瞬間を、自宅や外出先から味わえるのが魅力です。スポーツ観戦が好きな方や、いろいろな競技に触れてみたい方におすすめです。",
-      "live": true,
-      "featured": false
-    },
-    {
-      "id": 110,
-      "name": "MOTOR SPORTチャンネル",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/abema/motor-sport.png",
-      "stream_url": "https://linear-abematv.akamaized.net/preview/channel/motor-sport/playlist.m3u8",
-      "stream_type": "hls",
-      "category_id": 8,
-      "country": "Japan",
-      "description": "MOTOR SPORTチャンネルは、モータースポーツに特化したABEMAのチャンネルです。スピードと技術を競うレースの世界を、臨場感とともに楽しめます。\n\nエンジン音やマシン同士の激しい競り合いに、思わず引き込まれるはずです。クルマやバイクが好きな方や、レース観戦の興奮を味わいたい方にぴったりです。",
-      "live": true,
-      "featured": false
-    },
-    {
-      "id": 111,
-      "name": "格闘チャンネル",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/abema/fighting-sports.png",
-      "stream_url": "https://linear-abematv.akamaized.net/preview/channel/fighting-sports/playlist.m3u8",
-      "stream_type": "hls",
-      "category_id": 8,
-      "country": "Japan",
-      "description": "格闘チャンネルは、格闘技の試合や関連番組を届けるABEMAのチャンネルです。鍛え抜かれたファイターたちがぶつかり合う、真剣勝負の迫力を楽しめます。\n\n一瞬で勝負が決まるスリルや、選手の気迫が伝わる戦いに目が離せません。格闘技ファンの方や、熱い勝負で気分を盛り上げたい方におすすめです。",
-      "live": true,
-      "featured": false
-    },
-    {
       "id": 112,
       "name": "HIPHOPチャンネル",
       "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/abema/hiphop.png",
@@ -1392,18 +1351,6 @@
       "featured": false
     },
     {
-      "id": 113,
-      "name": "釣りチャンネル",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/abema/fishing.png",
-      "stream_url": "https://linear-abematv.akamaized.net/preview/channel/fishing/playlist.m3u8",
-      "stream_type": "hls",
-      "category_id": 8,
-      "country": "Japan",
-      "description": "釣りチャンネルは、釣りをテーマにした番組を楽しめるABEMAのチャンネルです。海や川、湖などさまざまな釣り場で味わえる釣りの魅力を伝えます。\n\n大物がかかる瞬間の興奮や、自然の中で過ごすのどかな時間を画面越しに味わえます。釣り好きの方や、次の釣行のヒントを探したい方にぴったりです。",
-      "live": true,
-      "featured": false
-    },
-    {
       "id": 114,
       "name": "CMチャンネル",
       "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/abema/commercial.png",
@@ -1412,30 +1359,6 @@
       "category_id": 9,
       "country": "Japan",
       "description": "CMチャンネルは、テレビCMを流しているABEMAのユニークなチャンネルです。番組の合間に観るのとは違い、CMそのものを映像作品として楽しめます。\n\n短い時間に工夫が詰まった映像や、耳に残る音楽に新たな発見があるかもしれません。広告やクリエイティブに興味がある方や、気軽に流しておきたい方におすすめです。",
-      "live": true,
-      "featured": false
-    },
-    {
-      "id": 115,
-      "name": "BOATRACEチャンネル",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/abema/boatrace.png",
-      "stream_url": "https://linear-abematv.akamaized.net/preview/channel/boatrace/playlist.m3u8",
-      "stream_type": "hls",
-      "category_id": 8,
-      "country": "Japan",
-      "description": "BOATRACEチャンネルは、ボートレースを楽しめるABEMAのチャンネルです。水面を疾走するボートが競り合う、スピード感あふれるレースを観戦できます。\n\nターンでの駆け引きや最後まで分からない順位争いに、思わず力が入ります。ボートレースファンの方や、公営競技の迫力に触れてみたい方にぴったりです。",
-      "live": true,
-      "featured": false
-    },
-    {
-      "id": 116,
-      "name": "競輪・オートレースチャンネル",
-      "logo": "https://raw.githubusercontent.com/devkoi2025-commits/novv-data/main/logos/abema/keirin-auto.png",
-      "stream_url": "https://linear-abematv.akamaized.net/preview/channel/keirin-auto/playlist.m3u8",
-      "stream_type": "hls",
-      "category_id": 8,
-      "country": "Japan",
-      "description": "競輪・オートレースチャンネルは、競輪とオートレースを届けるABEMAのチャンネルです。自転車とオートバイ、二つの競技ならではのスピードと駆け引きを楽しめます。\n\n選手同士の位置取りやゴール前の激しい競り合いは見ごたえ十分です。公営競技が好きな方や、レース観戦の新しい楽しみを見つけたい方におすすめです。",
       "live": true,
       "featured": false
     }
