@@ -30,7 +30,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "Nippon Television (NTV) is one of Japan's major commercial broadcasters, based in Tokyo and broadcasting terrestrially to the Kanto region. Affiliated with the Yomiuri Shimbun group, it was the first commercial television station in Japan, going on air in 1953, and it heads the nationwide NNN/NNS network.\n\nNTV's schedule mixes popular variety and comedy shows, primetime dramas, anime, documentaries and news programmes. It is also a major name in sports broadcasting, with coverage that has included professional baseball, football and the much-loved New Year university relay race tradition.\n\nIf you want a taste of mainstream Japanese television, NTV is a great place to start. Fans of lively variety shows, character-driven dramas and big sporting events will find plenty to enjoy, and it is a handy way to keep up with what people across Japan are watching and talking about.",
+      "description": "日本テレビ（日テレ）は、東京・汐留に本社を置く在京キー局です。1953年に日本で最初の民間テレビ局として開局し、読売新聞グループとともにNNN／NNS系列の中心を担っています。このチャンネルはハイビジョン（HD）画質でお届けします。\n\nバラエティ、ドラマ、アニメ、ドキュメンタリー、報道番組まで幅広いジャンルをそろえ、家族みんなで楽しめる番組づくりに定評があります。お正月の箱根駅伝をはじめ、スポーツ中継でもおなじみの存在です。\n\n日本の「いま」の空気を感じたいなら、まずはここから。高画質で、人気番組やライブ中継を臨場感たっぷりにお楽しみください。",
       "live": true,
       "featured": true
     },
@@ -42,7 +42,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "TBS Television (Tokyo Broadcasting System) is a leading commercial broadcaster headquartered in Akasaka, Tokyo, broadcasting terrestrially across the Kanto region. Its roots go back to the 1950s, and it is the key station of the JNN news network, whose programmes are seen by viewers all over Japan.\n\nTBS is especially well known for its high-quality television dramas, many of which become talking points across the country. Viewers can also expect variety and talk shows, music programmes, documentaries, news and sports coverage, including major international events.\n\nTBS is a natural choice for drama lovers and anyone who enjoys polished, story-driven entertainment. Whether you want the latest weekly series, a light-hearted variety show or the evening news, it offers a well-rounded window into Japanese television culture.",
+      "description": "TBSテレビは、東京・赤坂に本社を置く在京キー局で、JNN系列の中心局です。報道とドラマの両方に強いことで知られ、長年にわたり日本のテレビ文化をリードしてきました。このチャンネルはHD画質での配信です。\n\n「日曜劇場」に代表される話題のドラマ、情報番組、バラエティ、ドキュメンタリー、スポーツ中継など、見応えのあるラインナップが魅力です。ニュースや報道特番も充実しています。\n\n質の高いドラマと信頼のニュースを、くっきり鮮明な映像で。日本語のリスニングや最新トレンドのチェックにもおすすめです。",
       "live": true,
       "featured": true
     },
@@ -54,7 +54,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "Fuji Television is a major Tokyo-based commercial broadcaster serving the Kanto region terrestrially, with its distinctive headquarters building in Odaiba. Launched in 1959, it is the core station of the FNN news network and the FNS entertainment network, and part of Fuji Media Holdings.\n\nFuji TV has long been associated with trend-setting dramas, comedy and variety programmes, as well as anime and large-scale entertainment specials. Its schedule also includes news, morning information shows, documentaries and sports coverage across a range of events.\n\nFuji TV suits viewers who enjoy pop-culture-driven entertainment, stylish dramas and big-name variety shows. It is a fun channel to drop into when you want something upbeat, and a great way to stay connected with the latest trends in Japan.",
+      "description": "フジテレビは、東京・お台場の球体展望室のある社屋で知られる在京キー局で、FNN／FNS系列の中心局です。1959年の開局以来、明るく華やかな番組で多くの視聴者に親しまれてきました。こちらはHD画質のチャンネルです。\n\n「月9」をはじめとするドラマ、お笑いバラエティ、音楽番組、アニメ、スポーツ中継など、エンターテインメント色の強いラインナップが特徴です。朝や夕方の情報・ニュース番組も放送しています。\n\nトレンドを生み出してきたフジテレビの番組を、高画質で気軽に。笑いと話題があふれる日本のテレビを楽しめます。",
       "live": true,
       "featured": true
     },
@@ -66,7 +66,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "TV Asahi is a major commercial broadcaster headquartered in Roppongi, Tokyo, broadcasting terrestrially to the Kanto region. Affiliated with the Asahi Shimbun, it began in 1959 under the name NET before becoming TV Asahi, and it serves as the key station of the ANN news network.\n\nTV Asahi is known for long-running detective and crime dramas, popular anime aimed at children and families, variety shows and in-depth news programmes. It also broadcasts a variety of sports, with coverage that has included football, figure skating and other major events.\n\nMystery fans, families and news watchers will all find something to like on TV Asahi. It is a dependable channel for an evening of drama, a family anime session or catching up on current affairs in Japan.",
+      "description": "テレビ朝日は、東京・六本木に本社を置く在京キー局で、ANN系列の中心局です。1959年に開局し、報道・ドラマ・バラエティ・アニメと、あらゆるジャンルで人気番組を送り出しています。このチャンネルはHD画質です。\n\n刑事ドラマやミステリーの名作シリーズ、夜の報道番組、子どもから大人まで楽しめる長寿アニメ、スポーツ中継などが見どころです。幅広い世代に支持される安定した番組編成が魅力です。\n\n見応えのあるドラマと信頼できるニュースを、鮮明な映像でお楽しみください。",
       "live": true,
       "featured": true
     },
@@ -78,7 +78,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "TV Tokyo is a Tokyo-based commercial broadcaster serving the Kanto region terrestrially. Affiliated with the Nikkei business newspaper group, it is the key station of the TXN network and has built a reputation for a distinctive, sometimes refreshingly unconventional style.\n\nTV Tokyo is famous for its large line-up of anime, as well as economic and business news, quirky documentary-style variety shows and food and travel programmes. It also airs dramas, late-night series and selected sports.\n\nAnime fans and anyone curious about the offbeat side of Japanese TV will enjoy TV Tokyo. It is also a good pick for viewers interested in business and the economy, offering a different flavour from the other major networks.",
+      "description": "テレビ東京（テレ東）は、東京・六本木に本社を置く在京キー局で、TXN系列の中心局です。日本経済新聞グループに属し、ほかの局とはひと味違うユニークな番組づくりで人気を集めています。こちらはHD画質のチャンネルです。\n\n経済ニュースやビジネス番組、全国各地を巡る旅・グルメ番組、深夜ドラマ、そして数多くのアニメが大きな特色です。大きな出来事の日でも独自の編成を貫く個性派として知られています。\n\n肩の力を抜いて楽しめる番組から、仕事に役立つ経済情報まで。テレ東らしさを高画質で味わってください。",
       "live": true,
       "featured": true
     },
@@ -90,7 +90,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "TOKYO MX is Tokyo Metropolitan Television, an independent terrestrial station that has served the Tokyo area since 1995. Not tied to any of the big national networks, it has the freedom to build its own schedule, and MX1 is its main channel.\n\nTOKYO MX is especially well known among anime fans, with many late-night anime series appearing on its schedule each season. It also offers local news and information about Tokyo, talk and variety shows, and programmes about city life and culture.\n\nIf you follow the latest anime season, TOKYO MX1 is a channel worth keeping close. It is also a pleasant way to get a feel for everyday life in Tokyo through its local news and lifestyle programming.",
+      "description": "TOKYO MX（東京メトロポリタンテレビジョン）は、東京都を放送エリアとする独立局です。1995年に開局し、キー局の系列に属さない自由な編成で、東京ならではの番組を届けています。このチャンネルはHD画質での配信です。\n\nローカルニュースや生活情報、平日夕方のトーク・情報番組、そして深夜を中心とした豊富なアニメ放送が大きな魅力です。新作アニメをいち早くチェックできる局として、アニメファンにも人気があります。\n\n東京の日常と最新アニメを、高画質で楽しめるチャンネルです。",
       "live": true,
       "featured": true
     },
@@ -102,7 +102,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "Nippon Television (NTV) is one of Japan's major commercial broadcasters, based in Tokyo and broadcasting terrestrially to the Kanto region. Affiliated with the Yomiuri Shimbun group, it was the first commercial television station in Japan, going on air in 1953, and it heads the nationwide NNN/NNS network.\n\nNTV's schedule mixes popular variety and comedy shows, primetime dramas, anime, documentaries and news programmes. It is also a major name in sports broadcasting, with coverage that has included professional baseball, football and the much-loved New Year university relay race tradition.\n\nIf you want a taste of mainstream Japanese television, NTV is a great place to start. Fans of lively variety shows, character-driven dramas and big sporting events will find plenty to enjoy, and it is a handy way to keep up with what people across Japan are watching and talking about.",
+      "description": "日本テレビ（日テレ）は、日本初の民間テレビ局として1953年に開局した在京キー局です。読売新聞グループに属し、全国ネットのNNN／NNS系列を率いています。\n\n人気バラエティ、ドラマ、アニメ、ニュース、スポーツ中継まで、毎日の暮らしに寄り添う多彩な番組を放送しています。家族で笑える番組から、話題の連続ドラマまで、日本の定番テレビを幅広く楽しめます。\n\n通信環境に合わせて気軽に視聴したい方は、こちらの標準チャンネルをご利用ください。",
       "live": true,
       "featured": false
     },
@@ -114,7 +114,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "TBS Television (Tokyo Broadcasting System) is a leading commercial broadcaster headquartered in Akasaka, Tokyo, broadcasting terrestrially across the Kanto region. Its roots go back to the 1950s, and it is the key station of the JNN news network, whose programmes are seen by viewers all over Japan.\n\nTBS is especially well known for its high-quality television dramas, many of which become talking points across the country. Viewers can also expect variety and talk shows, music programmes, documentaries, news and sports coverage, including major international events.\n\nTBS is a natural choice for drama lovers and anyone who enjoys polished, story-driven entertainment. Whether you want the latest weekly series, a light-hearted variety show or the evening news, it offers a well-rounded window into Japanese television culture.",
+      "description": "TBSテレビは、東京・赤坂を拠点とするJNN系列のキー局です。半世紀以上にわたり、報道とドラマの分野で日本のテレビを支えてきました。\n\n話題のドラマ、朝・夕方の情報番組、バラエティ、ドキュメンタリー、スポーツなど、見応えのある番組がそろっています。重大ニュースの際には、信頼性の高い報道で知られています。\n\n標準画質で軽快に再生できるので、モバイル通信でも安心してお楽しみいただけます。",
       "live": true,
       "featured": false
     },
@@ -126,7 +126,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "Fuji Television is a major Tokyo-based commercial broadcaster serving the Kanto region terrestrially, with its distinctive headquarters building in Odaiba. Launched in 1959, it is the core station of the FNN news network and the FNS entertainment network, and part of Fuji Media Holdings.\n\nFuji TV has long been associated with trend-setting dramas, comedy and variety programmes, as well as anime and large-scale entertainment specials. Its schedule also includes news, morning information shows, documentaries and sports coverage across a range of events.\n\nFuji TV suits viewers who enjoy pop-culture-driven entertainment, stylish dramas and big-name variety shows. It is a fun channel to drop into when you want something upbeat, and a great way to stay connected with the latest trends in Japan.",
+      "description": "フジテレビは、お台場に本社を構えるFNN／FNS系列のキー局です。明るく楽しい番組づくりで、長年にわたり日本のテレビ文化をけん引してきました。\n\nドラマ、バラエティ、音楽番組、アニメ、スポーツ中継、ニュースなど、エンターテインメントを中心に多彩な番組を放送しています。若い世代の流行を生み出してきた番組も数多くあります。\n\n通信量を抑えて視聴したいときは、こちらの標準チャンネルが便利です。",
       "live": true,
       "featured": false
     },
@@ -138,7 +138,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "TV Asahi is a major commercial broadcaster headquartered in Roppongi, Tokyo, broadcasting terrestrially to the Kanto region. Affiliated with the Asahi Shimbun, it began in 1959 under the name NET before becoming TV Asahi, and it serves as the key station of the ANN news network.\n\nTV Asahi is known for long-running detective and crime dramas, popular anime aimed at children and families, variety shows and in-depth news programmes. It also broadcasts a variety of sports, with coverage that has included football, figure skating and other major events.\n\nMystery fans, families and news watchers will all find something to like on TV Asahi. It is a dependable channel for an evening of drama, a family anime session or catching up on current affairs in Japan.",
+      "description": "テレビ朝日は、東京・六本木に本社を置くANN系列のキー局です。報道からエンタメまで、幅広い世代に愛される番組を送り出しています。\n\n人気の刑事ドラマ、夜のニュース番組、国民的アニメ、バラエティ、スポーツ中継など、毎日見たくなる番組がそろっています。\n\n標準画質で軽く再生できるため、外出先や通信環境が不安定なときにもおすすめです。",
       "live": true,
       "featured": false
     },
@@ -150,7 +150,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "TV Tokyo is a Tokyo-based commercial broadcaster serving the Kanto region terrestrially. Affiliated with the Nikkei business newspaper group, it is the key station of the TXN network and has built a reputation for a distinctive, sometimes refreshingly unconventional style.\n\nTV Tokyo is famous for its large line-up of anime, as well as economic and business news, quirky documentary-style variety shows and food and travel programmes. It also airs dramas, late-night series and selected sports.\n\nAnime fans and anyone curious about the offbeat side of Japanese TV will enjoy TV Tokyo. It is also a good pick for viewers interested in business and the economy, offering a different flavour from the other major networks.",
+      "description": "テレビ東京は、日本経済新聞グループに属するTXN系列のキー局です。独自路線の番組づくりで、根強いファンを持っています。\n\n経済・ビジネス情報、旅やグルメのロケ番組、ユニークな深夜ドラマ、そして子ども向けから大人向けまでの豊富なアニメが特徴です。\n\n標準画質で手軽に視聴できるチャンネルです。テレ東ならではの個性あふれる番組をお楽しみください。",
       "live": true,
       "featured": false
     },
@@ -162,7 +162,7 @@
       "stream_type": "hls",
       "category_id": 1,
       "country": "Japan",
-      "description": "TOKYO MX is Tokyo Metropolitan Television, an independent terrestrial station that has served the Tokyo area since 1995. Not tied to any of the big national networks, it has the freedom to build its own schedule, and MX1 is its main channel.\n\nTOKYO MX is especially well known among anime fans, with many late-night anime series appearing on its schedule each season. It also offers local news and information about Tokyo, talk and variety shows, and programmes about city life and culture.\n\nIf you follow the latest anime season, TOKYO MX1 is a channel worth keeping close. It is also a pleasant way to get a feel for everyday life in Tokyo through its local news and lifestyle programming.",
+      "description": "TOKYO MXは、東京都をエリアとする独立系の地上波テレビ局です。キー局の系列に属さないため、自由で個性的な編成が特徴です。\n\n東京のローカルニュースや生活情報、夕方の人気トーク番組、そして深夜の新作アニメなど、ここでしか見られない番組が楽しめます。\n\n標準画質で軽快に再生できるので、スマートフォンでの視聴にもぴったりです。",
       "live": true,
       "featured": false
     },
@@ -174,7 +174,7 @@
       "stream_type": "hls",
       "category_id": 2,
       "country": "Japan",
-      "description": "MBS (Mainichi Broadcasting System) is a major commercial broadcaster based in Osaka, broadcasting terrestrially to the Kansai region. It is a core affiliate of the TBS-led JNN network and has a long history in both radio and television in western Japan.\n\nMBS carries popular network dramas and variety shows alongside its own Kansai-produced programmes, including comedy, talk and information shows with a strong local flavour. It also produces anime, news and sports coverage, and is associated with the spring national high school baseball tournament.\n\nMBS is perfect for viewers who enjoy the energy and humour of Kansai television. It combines nationally popular shows with real local character, making it a great way to experience the Osaka style of entertainment.",
+      "description": "MBS（毎日放送）は、大阪に本社を置く関西の準キー局で、JNN系列に属しています。ラジオ放送から始まった歴史ある放送局で、関西の視聴者に長く親しまれています。\n\n関西ならではのお笑い・バラエティ番組、情報番組、ドラマ、アニメ、地域密着のニュースなどを放送しています。全国ネットで放送される人気番組も数多く制作しています。\n\n大阪・関西の空気感やお笑い文化にふれたい方におすすめのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -186,7 +186,7 @@
       "stream_type": "hls",
       "category_id": 2,
       "country": "Japan",
-      "description": "ABC (Asahi Broadcasting Corporation) is a commercial broadcaster based in Osaka, serving the Kansai region terrestrially. It is a key affiliate of the TV Asahi-led ANN network and one of the leading broadcasters in western Japan.\n\nABC offers network dramas, anime and variety programmes along with its own Kansai-made comedy, talk and information shows. It is closely associated with the summer national high school baseball tournament at Koshien, and also produces news and other sports coverage.\n\nFans of Kansai comedy, high school baseball and family entertainment will feel at home with ABC. It is an enjoyable channel for discovering the lively broadcasting culture of Osaka.",
+      "description": "ABCテレビ（朝日放送テレビ）は、大阪に本社を置く関西の準キー局で、ANN系列に属しています。関西を代表する放送局のひとつとして、数々の人気番組を送り出してきました。\n\n漫才日本一を決める大会をはじめとするお笑い番組、バラエティ、情報番組、ニュースに加え、夏の高校野球など関西ゆかりのスポーツ中継でも知られています。\n\n笑いとスポーツの熱気にあふれた、関西らしいテレビを楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -198,7 +198,7 @@
       "stream_type": "hls",
       "category_id": 2,
       "country": "Japan",
-      "description": "Kansai Television (Kansai TV) is an Osaka-based commercial broadcaster serving the Kansai region terrestrially. It is a major affiliate of the Fuji TV-led FNN/FNS network and contributes a number of its own programmes to the national schedule.\n\nViewers can expect a mix of Fuji network dramas and variety shows together with Kansai TV's own productions, including comedy, talk shows, local news and information programmes. Its line-up also features sports and occasional large-scale entertainment specials.\n\nKansai TV is a great choice for those who like Fuji-style entertainment with a local Osaka twist. It is ideal for relaxed evenings of variety, drama and plenty of laughter.",
+      "description": "関西テレビ（カンテレ）は、大阪に本社を置く関西の準キー局で、FNN／FNS系列に属しています。地域に根ざした番組と、全国ネットのドラマ制作で知られています。\n\n関西発のバラエティや情報番組、ローカルニュース、そして全国で話題になるドラマなどを放送しています。親しみやすいトークと関西ならではのノリが魅力です。\n\n関西の日常や最新の話題を、気軽にチェックできるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -210,7 +210,7 @@
       "stream_type": "hls",
       "category_id": 2,
       "country": "Japan",
-      "description": "ytv (Yomiuri Telecasting Corporation) is an Osaka-based commercial broadcaster serving the Kansai region terrestrially. It is a leading affiliate of the Nippon TV-led NNN/NNS network and has a long history of producing programmes for national audiences.\n\nytv broadcasts Nippon TV network dramas, variety and news, alongside its own Kansai-produced comedy, talk and information shows. It is also known for producing popular anime and for its local news and sports coverage.\n\nytv is a good fit for viewers who enjoy Kansai humour, well-loved anime and mainstream network entertainment. It is an easy channel to settle into for both light-hearted shows and local news.",
+      "description": "読売テレビ（ytv）は、大阪に本社を置く関西の準キー局で、NNN／NNS系列に属しています。全国ネットの人気番組を数多く制作していることで知られています。\n\n長年愛される人気推理アニメをはじめ、バラエティ、情報番組、ドラマ、関西のニュースなどを放送しています。お笑い色の強い番組も多く、関西らしさを存分に味わえます。\n\nアニメからお笑いまで、幅広く楽しめる関西の人気チャンネルです。",
       "live": true,
       "featured": false
     },
@@ -222,7 +222,7 @@
       "stream_type": "hls",
       "category_id": 2,
       "country": "Japan",
-      "description": "TV Osaka is an Osaka-based commercial broadcaster serving the Kansai region terrestrially. It is an affiliate of the TV Tokyo-led TXN network and, like its partner station, is linked to the Nikkei business newspaper group.\n\nTV Osaka carries much of TV Tokyo's line-up, including anime, economic news, travel and food programmes and distinctive variety shows. It also produces its own local programmes focused on Osaka and the wider Kansai area.\n\nIf you enjoy TV Tokyo-style programming, anime or business-oriented content, TV Osaka is well worth a look. It also gives a friendly local perspective on everyday life in Kansai.",
+      "description": "テレビ大阪は、大阪に本社を置く関西の放送局で、テレビ東京系列（TXN）に属しています。1982年に開局し、経済情報やユニークな番組で関西の視聴者に親しまれています。\n\nテレビ東京系の経済番組やアニメ、旅・グルメ番組に加え、大阪の街や企業を取り上げる地域密着の番組も放送しています。\n\nビジネス情報と関西のローカル色を、どちらも楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -234,7 +234,7 @@
       "stream_type": "hls",
       "category_id": 2,
       "country": "Japan",
-      "description": "SUN TV (Sun Television) is an independent terrestrial broadcaster based in Kobe, serving Hyogo Prefecture and parts of the surrounding Kansai area. As an independent station, it builds its own schedule rather than relaying one of the national networks.\n\nSUN TV is particularly well known for its extensive coverage of Hanshin Tigers professional baseball. The rest of its schedule includes local news and information, regional variety shows, anime, horse racing and programmes about the Kobe and Hyogo area.\n\nHanshin Tigers fans will find SUN TV essential viewing during the baseball season. It is also a charming way to get to know the local culture and everyday life of Kobe and Hyogo.",
+      "description": "サンテレビは、兵庫県神戸市に本社を置く独立系の地上波テレビ局です。キー局の系列に属さず、兵庫県と関西の視聴者に向けて個性的な番組を届けています。\n\nなかでもプロ野球・阪神タイガースの試合中継は有名で、熱心なファンから絶大な支持を集めています。地域のニュースや情報番組、音楽・バラエティ番組なども放送しています。\n\n神戸・兵庫の魅力と、熱い野球中継を楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -246,7 +246,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "BS NTV (BS Nittele) is the BS satellite channel of the Nippon Television group, available nationwide across Japan. It launched with the start of BS digital broadcasting and complements its terrestrial parent with its own distinct line-up.\n\nBS NTV airs a range of programmes including travel and culture documentaries, dramas, music shows, information programmes and sports, with professional baseball featuring prominently in season. It also carries news and lifestyle content suited to relaxed viewing.\n\nBS NTV is a pleasant choice for viewers who enjoy calm, informative programming and a good game of baseball. It is a nice channel to have on for travel, history and lifestyle shows at a gentler pace.",
+      "description": "BS日テレは、日本テレビグループが運営するBS放送のチャンネルです。2000年のBSデジタル放送開始とともにスタートし、全国どこでも無料で視聴できます。\n\n落ち着いた大人向けの番組が多く、旅・紀行番組、歴史や文化の教養番組、ドラマの再放送、通販番組、スポーツ中継などをバランスよく放送しています。\n\nゆったりとした時間に、じっくり見たい番組がそろう全国向けチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -258,7 +258,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "BS Asahi is the BS satellite channel of the TV Asahi group, broadcasting nationwide across Japan. It began with the launch of BS digital broadcasting and offers a schedule distinct from its terrestrial sister station.\n\nBS Asahi features travel and nature documentaries, music programmes, dramas including popular detective series, and in-depth news and discussion shows. It also carries culture, lifestyle and sports programmes.\n\nViewers who appreciate unhurried travel shows, nostalgic music and thoughtful documentaries will enjoy BS Asahi. It is well suited to relaxed viewing and to discovering new corners of Japan and the world.",
+      "description": "BS朝日は、テレビ朝日グループが運営するBS放送のチャンネルです。BSデジタル放送の開始とともに誕生し、全国で無料視聴できます。\n\n世界の絶景や鉄道の旅、歴史ドキュメンタリー、報道・討論番組、刑事ドラマの再放送、音楽番組など、大人が楽しめる上質な番組が充実しています。\n\n知的好奇心を満たしてくれる番組を、全国どこからでも楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -270,7 +270,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "BS-TBS is the BS satellite channel of the TBS group, broadcasting nationwide across Japan. It started with the beginning of BS digital broadcasting and offers its own schedule alongside selected content from TBS.\n\nBS-TBS is known for history and culture documentaries, travel programmes, period and contemporary dramas, and news analysis shows. Its line-up also includes music, entertainment and sports programming.\n\nBS-TBS is a great channel for history buffs, documentary lovers and fans of classic drama. It offers rewarding, thoughtful viewing whenever you want something with a little more depth.",
+      "description": "BS-TBSは、TBSグループが運営するBS放送のチャンネルです。BSデジタル放送開始当初から放送を続け、全国で無料視聴できます。\n\n旅や食をテーマにした紀行番組、歴史・文化の教養番組、報道番組、過去の名作ドラマや時代劇、スポーツ中継などを放送しています。\n\nTBSならではの丁寧な番組づくりを、BSでゆっくり楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -282,7 +282,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "BS TV Tokyo is the BS satellite channel of the TV Tokyo group, available nationwide across Japan. It began with BS digital broadcasting and shares much of the character of its terrestrial parent, including a strong focus on business and lifestyle content.\n\nBS TV Tokyo offers economic and business news, travel and food programmes, documentaries, dramas and anime. It also carries hobby and leisure shows, such as fishing and outdoor programmes, along with selected sports.\n\nBS TV Tokyo suits viewers who want a mix of practical information and easy-going entertainment. Fans of business news, travel and food shows will find plenty to enjoy at any time of day.",
+      "description": "BSテレ東は、テレビ東京グループが運営するBS放送のチャンネルです。全国どこでも無料で視聴できます。\n\n経済・ビジネス番組をはじめ、旅・グルメ番組、釣りや鉄道などの趣味番組、ドラマ、アニメなど、テレ東グループらしい個性的なラインナップが魅力です。\n\n暮らしに役立つ情報から趣味の世界まで、のんびり楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -294,7 +294,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "BS Fuji is the BS satellite channel of the Fuji Media Holdings group, broadcasting nationwide across Japan. It launched with the start of BS digital broadcasting and offers a schedule distinct from terrestrial Fuji TV.\n\nBS Fuji's line-up includes news and political discussion programmes, travel and culture shows, dramas, music and entertainment. It also features documentaries, lifestyle content and a range of sports.\n\nBS Fuji is a good pick for viewers who like current affairs discussion as well as relaxed lifestyle and travel shows. It offers a balanced mix for both informative and casual viewing.",
+      "description": "BSフジは、フジ・メディア・ホールディングスグループが運営するBS放送のチャンネルです。全国で無料視聴できます。\n\n報道・討論番組、旅や暮らしの情報番組、ドラマの再放送、音楽番組、スポーツ中継などを放送しています。じっくり見られる大人向けの番組が中心です。\n\nニュースの深掘りから趣味の番組まで、落ち着いて楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -306,7 +306,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "BS10 Star Channel is the BS satellite home of Star Channel, one of Japan's longest-established premium movie channels. It is dedicated to films and aimed at cinema lovers across Japan.\n\nThe channel focuses on movies, especially Hollywood and international films, ranging from recent releases and blockbusters to well-loved classics. Films are typically offered with Japanese subtitles or dubbing, and the line-up is complemented by film-related programmes and international drama series.\n\nMovie lovers will feel right at home with BS10 Star Channel. It is ideal for a film night, whether you are in the mood for action, romance, drama or a timeless classic.",
+      "description": "BS10 スターチャンネルは、日本で長い歴史を持つ映画専門チャンネル「スターチャンネル」のBS放送です。\n\nハリウッドの話題作から往年の名作、海外ドラマまで、厳選された作品を字幕版・吹替版でお届けします。映画好きのための特集や関連番組も充実しています。\n\nおうちで本格的な映画体験を楽しみたい方にぴったりのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -318,7 +318,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "Green Channel is a specialist channel dedicated to Japanese horse racing, closely associated with the Japan Racing Association (JRA). It is available via satellite and cable and is a long-standing favourite among racing fans in Japan.\n\nGreen Channel covers JRA races, including the big graded races, along with race previews, paddock coverage, results and expert analysis. It also features programmes about horses, jockeys, training and racing culture.\n\nIf you follow Japanese horse racing, Green Channel is the place to be. Whether you are a seasoned fan or simply enjoy the excitement of race day, it brings you close to the action and the stories behind it.",
+      "description": "グリーンチャンネルは、日本の競馬を専門に扱うチャンネルです。中央競馬を中心に、競馬ファンのための情報を一日中お届けしています。\n\nレースの生中継をはじめ、予想番組、パドックの様子、レース結果の振り返り、名馬の特集、地方競馬の情報など、競馬に関するあらゆる番組を放送しています。\n\n週末のレースを楽しみに待つ競馬ファンには欠かせないチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -330,7 +330,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "Animax is a dedicated anime channel in Japan, launched in 1998 and associated with the Sony group. It is available via CS satellite and cable and has become a familiar name for anime fans across the country.\n\nAnimax broadcasts a wide variety of Japanese anime, from recent series to classic favourites, covering genres such as action, comedy, romance, sports and fantasy. It also features anime-related specials and programmes.\n\nAnimax is perfect for anime fans of all ages, whether you want to catch up on a recent series or revisit an old favourite. It is an easy channel to explore when you simply want great animation.",
+      "description": "アニマックスは、1998年に開局したアニメ専門チャンネルです。ソニーグループの一員として、国内外の多くのアニメファンに親しまれています。\n\n懐かしの名作から最新の人気作まで、ロボット、スポーツ、ファンタジー、ラブコメなど幅広いジャンルのアニメを放送しています。一挙放送や特集企画も人気です。\n\n一日中アニメに浸りたい方のための、アニメファン必見のチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -342,7 +342,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "Nihon Eiga Senmon Channel (Japanese Movie Channel) is a specialist channel devoted to Japanese cinema. It is available via CS satellite and cable and is popular with film enthusiasts.\n\nThe channel shows Japanese films from many eras, from classic masterpieces to more recent titles, across genres including drama, comedy, crime, period films and romance. It also features restored films and programmes about the people and history behind Japanese cinema.\n\nNihon Eiga Senmon is a treat for anyone who wants to explore the rich history of Japanese film. It is ideal for discovering classics you may have missed and enjoying a relaxed evening of cinema.",
+      "description": "日本映画専門チャンネルは、その名のとおり日本映画に特化した専門チャンネルです。\n\n昭和の名作から近年のヒット作、話題の監督や俳優の特集まで、邦画の魅力をたっぷりとお届けします。テーマごとの特集や、映画をより深く楽しむための関連番組も放送しています。\n\n日本映画の歴史と魅力を、ゆっくり味わえるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -354,7 +354,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Sky A is a sports channel from the group of Osaka-based Asahi Broadcasting (ABC), available via CS satellite and cable. Its programming has a strong connection to sports in western Japan.\n\nSky A is especially known for its coverage of high school baseball, alongside professional baseball and a range of other sports such as golf, motorsports and combat sports. It also airs sports news, highlights and related programmes.\n\nSky A is a great channel for baseball fans, especially those who love the passion and drama of high school baseball. Sports enthusiasts of all kinds will find plenty of action to follow.",
+      "description": "スカイAは、大阪の朝日放送グループが運営するスポーツ専門チャンネルです。CS放送やケーブルテレビで視聴できます。\n\nプロ野球、高校野球、ゴルフ、格闘技、ラグビーなど、さまざまなスポーツを中継・特集しています。関西ゆかりのスポーツコンテンツが充実しているのも特徴です。\n\nスポーツの熱い瞬間を、たっぷり味わいたい方におすすめのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -366,7 +366,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "Fishing Vision is a specialist channel dedicated to fishing, available via CS satellite and cable in Japan. It is aimed at anglers and anyone who enjoys the outdoors.\n\nThe channel covers many styles of fishing, including sea, river, lake and lure fishing, with programmes on techniques, tackle, fishing spots and tournaments. It also features outdoor travel and nature content.\n\nWhether you are an experienced angler or just enjoy calm scenes by the water, Fishing Vision is a relaxing channel to watch. It is also a great source of tips and inspiration for your next fishing trip.",
+      "description": "釣りビジョンは、釣りを専門に扱うチャンネルです。初心者からベテランまで、釣りを愛するすべての人に向けた番組を放送しています。\n\n海釣り、川釣り、渓流釣り、バス釣りなど、全国各地の釣り場からの実釣番組や、仕掛け・テクニックの解説、最新の釣具情報などが楽しめます。\n\n次の釣行の参考にも、のんびり眺めるのにもぴったりなチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -378,7 +378,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "Disney Channel Japan is the Japanese version of the Walt Disney Company's family entertainment channel. It is available via satellite and cable and brings Disney's world of stories to audiences in Japan.\n\nDisney Channel features animated series, live-action shows and movies for children and families, including well-known Disney characters and franchises. Programmes are generally presented in Japanese, making them easy for young viewers to follow.\n\nDisney Channel is a lovely choice for family viewing and for kids who love Disney characters. It is a cheerful channel to put on when everyone wants something fun and familiar.",
+      "description": "ディズニー・チャンネルは、ウォルト・ディズニー・カンパニーが届けるファミリー向けエンターテインメントチャンネルの日本版です。\n\nディズニーのアニメーションやオリジナルドラマ、映画、子どもから大人まで楽しめるファミリー番組を、日本語でお楽しみいただけます。\n\n家族みんなでディズニーの世界を楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -390,7 +390,7 @@
       "stream_type": "hls",
       "category_id": 3,
       "country": "Japan",
-      "description": "J:COM BS is a free-to-air BS satellite channel operated by J:COM, one of Japan's largest cable television and telecommunications providers. It is available nationwide to anyone with BS reception.\n\nJ:COM BS offers a varied schedule including documentaries, travel and regional programmes, dramas, lifestyle shows and entertainment. Much of its content highlights local areas, culture and everyday life across Japan.\n\nJ:COM BS is a pleasant channel for easy-going viewing and for discovering regional Japan. It suits viewers who enjoy travel, culture and relaxed entertainment.",
+      "description": "J:COM BSは、日本最大級のケーブルテレビ会社J:COMが運営する無料のBS放送チャンネルです。\n\nドラマ、紀行番組、暮らしの情報番組、地域の魅力を紹介する番組など、生活に寄り添った多彩な番組を放送しています。\n\n肩ひじ張らずに楽しめる、身近で親しみやすいチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -402,7 +402,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Jidaigeki Senmon Channel is a specialist channel dedicated to Japanese period drama, known as jidaigeki. It is available via CS satellite and cable and has a loyal following among fans of historical storytelling.\n\nThe channel broadcasts classic and newer period dramas and films set in Japan's past, featuring samurai, swordfights, Edo-era tales and famous historical figures. It also includes related documentaries and specials about the genre.\n\nIf you love samurai tales and historical drama, Jidaigeki Senmon Channel is a must. It is a wonderful way to enjoy one of Japan's most classic storytelling traditions.",
+      "description": "時代劇専門チャンネルは、日本の時代劇を専門に放送するチャンネルです。\n\nテレビで長く愛されてきた名作時代劇シリーズから、劇場公開された時代劇映画、オリジナル作品まで、侍や剣客、人情ものなど多彩な作品を楽しめます。\n\n江戸の町並みや武士の世界にひたれる、時代劇ファン必見のチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -414,7 +414,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Toei Channel is a specialist channel run by the Toei group, one of Japan's best-known film and television studios. It is available via CS satellite and cable.\n\nToei Channel showcases films and series from the Toei library, including period films, crime and yakuza films, dramas and tokusatsu hero series. It also offers specials related to Toei productions and the people who made them.\n\nToei Channel is ideal for fans of classic Japanese cinema, hero shows and gritty genre films. It is a great channel for exploring the history of one of Japan's legendary studios.",
+      "description": "東映チャンネルは、日本を代表する映画・テレビ制作会社、東映グループの専門チャンネルです。\n\n東映が手がけてきた映画やテレビドラマ、時代劇、任侠映画、刑事ものに加え、特撮ヒーロー作品など、東映ならではの豊富な作品を放送しています。\n\n懐かしの名作から根強い人気の特撮まで、東映の魅力が詰まったチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -426,7 +426,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Eisei Gekijo is a specialist channel from Shochiku, the long-established Japanese film and theatre company. It is available via CS satellite and cable.\n\nThe channel offers Japanese films from the Shochiku library, period dramas and classic television series, along with stage performances including kabuki. It also presents programmes exploring traditional performing arts and the stars who bring them to life.\n\nEisei Gekijo is a rewarding channel for lovers of Japanese film, theatre and traditional culture. It is perfect for anyone curious about kabuki or eager to revisit classic cinema.",
+      "description": "衛星劇場は、映画・演劇の老舗である松竹グループの専門チャンネルです。\n\n松竹の名作映画をはじめ、歌舞伎や舞台中継、ドラマ、韓国ドラマなど、映画と演劇の魅力を幅広くお届けしています。\n\n劇場やスクリーンの感動を、自宅でゆったり楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -438,7 +438,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Family Gekijo is a specialist entertainment channel in Japan, available via CS satellite and cable. It focuses on Japanese dramas and entertainment for a broad audience.\n\nThe channel broadcasts Japanese dramas, including well-loved series from past years, along with music, variety and entertainment programmes. It also features specials and live entertainment content.\n\nFamily Gekijo is a good choice for viewers who enjoy revisiting favourite Japanese dramas and entertainment. It is a comfortable, familiar channel for relaxed viewing at home.",
+      "description": "ファミリー劇場は、ドラマ、アニメ、特撮、バラエティなど、幅広いエンターテインメント番組を放送する専門チャンネルです。\n\n懐かしの名作ドラマや特撮作品、人気アニメ、オリジナル番組など、世代を問わず楽しめるラインナップがそろっています。\n\n家族みんなで、思い出の番組や新しいお気に入りを見つけられるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -450,7 +450,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Movie Plus is a movie channel in Japan available via CS satellite and cable. It focuses on international films and is aimed at viewers who enjoy a good night of cinema.\n\nMovie Plus shows a range of foreign films, especially Hollywood titles, covering action, suspense, comedy, drama and more. It also carries international drama series and movie-related programmes.\n\nMovie Plus is great for movie fans who want a steady stream of entertaining films. It is perfect when you want to sit back and enjoy a big-screen story at home.",
+      "description": "ムービープラスは、話題の洋画を中心に放送する映画専門チャンネルです。\n\nアクション、サスペンス、コメディ、ヒューマンドラマなど、ハリウッド作品を中心に多彩なジャンルの映画を、字幕版・吹替版でお届けします。\n\n気軽に映画を楽しみたいときにぴったりのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -462,7 +462,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Home Drama Channel is a specialist drama channel available via CS satellite and cable in Japan. It is focused on drama series for viewers who love serialised storytelling.\n\nThe channel broadcasts Japanese dramas, including classic and memorable series, along with Korean dramas. Its line-up covers family stories, romance, mystery and other popular genres.\n\nHome Drama Channel is a comfortable choice for drama fans who enjoy settling in with a good series. It is ideal for both nostalgic favourites and discovering something new.",
+      "description": "ホームドラマチャンネルは、ドラマを中心に放送する専門チャンネルです。\n\n心温まる日本のホームドラマや名作ドラマ、韓国ドラマ、時代劇など、家族や人間模様を描いた作品を幅広く放送しています。\n\n懐かしい名作や、ほっとする物語をゆっくり楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -474,7 +474,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Tabi Channel is a travel-focused channel in Japan, available via CS satellite and cable. It is dedicated to showing destinations in Japan and around the world.\n\nTabi Channel features travel documentaries and programmes about scenery, culture, food, hot springs, railways and local traditions. It covers both domestic destinations and overseas journeys.\n\nTabi Channel is perfect for armchair travellers and anyone planning their next getaway. It is a calming, inspiring channel to watch whenever you want to see more of the world.",
+      "description": "旅チャンネルは、国内外の旅をテーマにした専門チャンネルです。\n\n日本各地の温泉や名所、ご当地グルメ、世界の絶景や街歩きなど、旅の魅力をたっぷり紹介しています。旅行の計画づくりにも役立つ情報が満載です。\n\n家にいながら、日本や世界を旅する気分を味わえるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -486,7 +486,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Fuji TV Next is a CS satellite channel operated by Fuji Television, available via satellite and cable in Japan. It is best known for live coverage of sports and events.\n\nFuji TV Next focuses on live sports, including professional baseball and other competitions, as well as live music and entertainment events. It also carries related specials and highlights programmes.\n\nFuji TV Next is a great pick for viewers who love live action, whether on the field or on stage. Sports fans and music lovers alike will find plenty to look forward to.",
+      "description": "フジテレビNEXTは、フジテレビが運営するCS放送のチャンネルです。\n\nスポーツ中継、音楽ライブ、ドラマ、バラエティなど、地上波とはひと味違う独自の番組をお届けしています。生中継やノーカット放送など、ファンにうれしい企画も魅力です。\n\nフジテレビのコンテンツをより深く楽しみたい方におすすめのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -498,7 +498,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "GAORA Sports is a Kansai-based sports channel available via CS satellite and cable in Japan. It has a strong focus on sports that are popular in western Japan.\n\nGAORA is particularly known for its coverage of the Hanshin Tigers professional baseball team. It also broadcasts other sports such as basketball, football, motorsports and wrestling, along with sports news and features.\n\nGAORA Sports is an excellent channel for Tigers fans and anyone who loves following Japanese sports. It is a lively choice for game days and catching up on the action.",
+      "description": "GAORA SPORTSは、関西を拠点とするスポーツ専門チャンネルです。CS放送やケーブルテレビで視聴できます。\n\nプロ野球をはじめ、バスケットボール、モータースポーツ、格闘技、アメリカンフットボールなど、さまざまなスポーツを中継しています。\n\n熱戦の興奮を味わいたいスポーツファンにぴったりのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -510,7 +510,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Golf Network is Japan's dedicated golf channel, available via CS satellite and cable. It is aimed at golf players and fans throughout the country.\n\nThe channel covers professional golf tournaments from Japan and overseas, along with lesson programmes, course guides, equipment features and golf news. It offers content for both spectators and players hoping to improve their game.\n\nGolf Network is a must for golfers and golf fans alike. Whether you want to follow a tournament or pick up tips for your next round, it has plenty to offer.",
+      "description": "ゴルフネットワークは、ゴルフを専門に扱うチャンネルです。\n\n国内外の主要トーナメント中継をはじめ、プロによるレッスン番組、ギア情報、コース紹介など、ゴルファーのための番組を幅広く放送しています。\n\nプレーの上達にも、観戦の楽しみにも役立つ、ゴルフ好き必見のチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -522,7 +522,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Nittele G+ is Nippon Television's sports channel, available via CS satellite and cable in Japan. It is closely associated with the Yomiuri Giants professional baseball team.\n\nNittele G+ is known for its coverage of Yomiuri Giants baseball games and related programmes. It also airs other sports such as football and wrestling, along with sports news and documentaries.\n\nGiants fans will find Nittele G+ an essential channel during the baseball season. It is also a solid pick for sports fans who want in-depth coverage and highlights.",
+      "description": "日テレジータスは、日本テレビが運営するスポーツ専門チャンネルです。\n\n読売ジャイアンツの試合中継をはじめ、プロ野球、サッカー、ゴルフ、格闘技、陸上など、多彩なスポーツを放送しています。試合前後の関連番組も充実しています。\n\n野球ファンを中心に、スポーツを存分に楽しめるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -534,7 +534,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Mondo TV is a specialist channel in Japan available via CS satellite and cable. It focuses on mind sports and table games that are deeply rooted in Japanese culture.\n\nMondo TV is particularly known for mahjong, along with shogi, go and other games. Its programmes include matches and tournaments, expert commentary and instructional content for players of different levels.\n\nMondo TV is perfect for anyone who loves strategy and table games. Whether you are a seasoned player or just curious, it is an engaging way to learn and enjoy these classic pastimes.",
+      "description": "MONDO TVは、囲碁・将棋・麻雀など、頭脳スポーツを中心に放送する専門チャンネルです。\n\nプロの対局やタイトル戦、解説番組、初心者向けの講座など、知的なゲームの奥深さを楽しめる番組がそろっています。\n\n対局観戦を楽しみたい方にも、腕を磨きたい方にもおすすめのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -546,7 +546,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Channel Ginga is a specialist channel in Japan available via CS satellite and cable. It focuses on Asian dramas and culture.\n\nChannel Ginga broadcasts dramas from across Asia, with a particular emphasis on Chinese historical and period dramas. It also features programmes on Asian history, culture and travel.\n\nChannel Ginga is a great choice for fans of epic historical dramas and Asian culture. It offers immersive storytelling for viewers who love long, sweeping series.",
+      "description": "チャンネル銀河は、アジアのドラマを中心に放送する専門チャンネルです。\n\n壮大な中国の歴史ドラマや韓国ドラマ、日本の名作ドラマなど、見応えのある作品を多数放送しています。\n\n長編の歴史ドラマにじっくりひたりたい方におすすめのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -558,7 +558,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Space Shower TV is one of Japan's leading music channels, launched in 1989. It is available via CS satellite and cable and has long been an important platform for the Japanese music scene.\n\nSpace Shower TV features music videos, artist interviews, live performances and music news, with a strong focus on Japanese artists across genres such as J-pop, rock and hip-hop. It also covers music festivals and events.\n\nSpace Shower TV is ideal for music fans who want to keep up with Japanese artists and discover new sounds. It is a great channel to have on in the background or to explore new favourites.",
+      "description": "スペースシャワーTVは、1989年に開局した日本を代表する音楽専門チャンネルのひとつです。\n\n邦楽を中心としたミュージックビデオ、ライブ映像、アーティストのインタビュー、音楽ランキングなど、音楽シーンの今を届けています。新しいアーティストとの出会いも楽しみのひとつです。\n\n最新のJ-POPやロックを楽しみたい音楽ファンにぴったりのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -570,7 +570,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Music Japan TV is a specialist music channel in Japan, available via CS satellite and cable. It focuses on traditional Japanese popular music, especially enka and kayokyoku.\n\nMusic Japan TV features enka and kayokyoku performances, music videos, concerts and artist programmes. It also offers singing-related content and programmes introducing both veteran singers and newer voices in the genre.\n\nMusic Japan TV is perfect for fans of enka and classic Japanese songs. It is a warm and nostalgic channel to enjoy heartfelt music and memorable performances.",
+      "description": "ミュージック・ジャパンTVは、演歌や歌謡曲を中心とした音楽専門チャンネルです。\n\n人気歌手のステージやコンサート、カラオケ番組、新曲紹介、歌手のトーク番組など、日本の歌の魅力をたっぷりお届けしています。\n\n心にしみる演歌・歌謡曲を楽しみたい方におすすめのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -582,7 +582,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Kayo Pops is a music channel in Japan available via CS satellite and cable. It is dedicated to Japanese kayokyoku and pop music.\n\nKayo Pops features performances, music programmes and artist specials covering Japanese pop and kayokyoku from various eras. It includes both classic hits that many viewers grew up with and more recent music.\n\nKayo Pops is a great channel for anyone who loves Japanese songs and nostalgic melodies. It is easy to enjoy whether you want to sing along or simply relax.",
+      "description": "歌謡ポップスチャンネルは、昭和から平成の歌謡曲やポップスを中心に放送する音楽チャンネルです。\n\n懐かしのヒット曲、名歌手のステージ映像、歌番組のアーカイブ、カラオケ番組などを楽しめます。\n\n青春時代の思い出の曲と再会できる、懐かしさあふれるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -594,7 +594,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "MTV Japan is the Japanese version of the famous international music and entertainment brand. It is available via satellite and cable in Japan.\n\nMTV Japan features music videos, artist programmes and music news covering both Japanese and international artists. It also carries live performances, award shows and entertainment content.\n\nMTV is perfect for music fans who want to follow both Japanese and global hits. It is a fun channel for discovering new music and enjoying performances from popular artists.",
+      "description": "MTVは、世界的に有名な音楽・エンターテインメントブランドの日本版チャンネルです。\n\n国内外のミュージックビデオ、ライブ映像、音楽アワード、アーティストの特集番組など、最新の音楽トレンドをお届けしています。\n\n洋楽も邦楽も、最新のヒット曲を楽しみたい方におすすめのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -606,7 +606,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "LaLa TV is an entertainment channel in Japan aimed primarily at women, available via CS satellite and cable. It focuses on dramas and lifestyle content.\n\nLaLa TV features Asian and international dramas, along with lifestyle programmes covering beauty, fashion, food and wellbeing. It also offers entertainment and variety content.\n\nLaLa TV is a good choice for viewers who enjoy romantic dramas and lifestyle inspiration. It is a relaxing channel for unwinding after a busy day.",
+      "description": "LaLa TVは、女性向けのエンターテインメントチャンネルです。\n\n韓国ドラマや海外ドラマ、恋愛ドラマ、美容・ライフスタイル番組など、毎日を楽しく彩る番組を放送しています。\n\nドラマや暮らしの情報を気軽に楽しみたい方にぴったりのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -618,7 +618,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Takarazuka Sky Stage is the dedicated channel of the Takarazuka Revue, the famous all-female musical theatre company based in Hyogo Prefecture. It is available via CS satellite and cable in Japan.\n\nThe channel broadcasts Takarazuka Revue stage performances, along with behind-the-scenes content, interviews and programmes featuring the company's performers. It gives fans a close look at the glamorous world of Takarazuka.\n\nTakarazuka Sky Stage is a must for Takarazuka fans and anyone who loves musical theatre. It is a dazzling way to enjoy spectacular stage productions from home.",
+      "description": "タカラヅカ・スカイ・ステージは、女性だけで構成される宝塚歌劇団の専門チャンネルです。\n\n宝塚歌劇の公演映像をはじめ、スターのトーク番組、稽古場の様子、舞台の裏側など、ファンにはたまらない番組を放送しています。\n\n華やかな宝塚の舞台を、いつでも楽しめる特別なチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -630,7 +630,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Kids Station is a children's and anime channel in Japan, available via CS satellite and cable. It is aimed at kids and families as well as anime fans of all ages.\n\nKids Station features anime series for children and older viewers, along with family-friendly entertainment. Its line-up includes both popular recent titles and classic favourites.\n\nKids Station is a great choice for families and anime lovers alike. It is an easy channel to put on for fun, colourful entertainment.",
+      "description": "キッズステーションは、子どもからアニメファンまで楽しめるアニメ中心のチャンネルです。\n\n人気のキッズアニメや名作アニメ、深夜帯の話題作などを放送しています。年齢層ごとに楽しめるよう、時間帯によって番組が工夫されています。\n\n子どもも大人も夢中になれる、アニメたっぷりのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -642,7 +642,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Cartoon Network Japan is the Japanese version of the well-known international animation channel. It is available via satellite and cable in Japan.\n\nCartoon Network features animated series for children and families, including popular international cartoons presented in Japanese. Its programmes span comedy, adventure and action.\n\nCartoon Network is ideal for kids and anyone who loves cartoons. It is a cheerful channel for enjoying entertaining animation from around the world.",
+      "description": "カートゥーン ネットワークは、世界的に人気のアニメーション専門チャンネルの日本版です。\n\n海外の人気カートゥーンを中心に、ユーモアあふれるアニメ作品を日本語でお届けしています。\n\n子どもも大人も笑って楽しめる、カラフルなアニメの世界が広がるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -654,7 +654,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "National Geographic Japan is the Japanese version of the internationally renowned National Geographic channel. It is available via satellite and cable in Japan.\n\nNational Geographic features documentaries on nature, wildlife, science, history, exploration and world cultures. Its programmes are known for stunning visuals and engaging storytelling.\n\nNational Geographic Japan is perfect for curious minds and documentary lovers. It is a fascinating way to explore the planet and learn something new every day.",
+      "description": "ナショナル ジオグラフィックは、世界的に有名なドキュメンタリーブランドの日本版チャンネルです。\n\n大自然や野生動物、科学、探検、歴史、世界の文化など、地球の不思議と魅力に迫るドキュメンタリーを放送しています。\n\n知的好奇心を刺激する映像で、世界を旅するように学べるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -666,7 +666,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Disney Junior Japan is the Japanese version of Disney's channel for young children. It is available via satellite and cable in Japan.\n\nDisney Junior features animated series for preschoolers and young children, including beloved Disney characters. Its programmes focus on fun, learning and gentle storytelling.\n\nDisney Junior is a lovely choice for young children and their families. It is a friendly channel for cheerful, age-appropriate entertainment.",
+      "description": "ディズニージュニアは、小さな子どもたちのためのディズニーのチャンネルです。\n\nディズニーの人気キャラクターが登場するアニメや、遊びながら学べる番組など、未就学児にぴったりの番組を放送しています。\n\n親子で安心して楽しめる、やさしい世界観のチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -678,7 +678,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Discovery Channel Japan is the Japanese version of the well-known international factual entertainment channel. It is available via satellite and cable in Japan.\n\nDiscovery Channel features documentaries and factual programmes on science, technology, engineering, adventure, survival and more. Many programmes are presented in Japanese for local viewers.\n\nDiscovery Channel is great for anyone who loves learning through engaging documentaries. It is ideal for curious viewers who enjoy science and adventure.",
+      "description": "ディスカバリーチャンネルは、世界的に人気のドキュメンタリー・エンターテインメントチャンネルの日本版です。\n\n科学、テクノロジー、乗り物、サバイバル、ものづくり、自然など、身近な疑問から壮大なテーマまでを、わかりやすく迫力ある映像で紹介しています。\n\n楽しみながら知識が広がる、大人も子どもも夢中になれるチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -690,7 +690,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "Animal Planet Japan is the Japanese version of the international channel dedicated to animals. It is available via satellite and cable in Japan.\n\nAnimal Planet features programmes about wildlife, pets, veterinary care and nature. It offers both educational documentaries and heartwarming animal stories.\n\nAnimal Planet is perfect for animal lovers of all ages. It is a delightful channel to enjoy with the whole family.",
+      "description": "アニマルプラネットは、動物をテーマにした国際的な専門チャンネルの日本版です。\n\nペットや野生動物のドキュメンタリー、動物の保護活動、動物病院の舞台裏など、動物の魅力と命の大切さを伝える番組を放送しています。\n\n動物好きにはたまらない、癒しと発見に満ちたチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -702,7 +702,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "History Japan is the Japanese version of the international History channel. It is available via satellite and cable in Japan.\n\nHistory features documentaries on world history, ancient civilisations, wars, mysteries and historical figures. It also includes programmes on culture, invention and discovery.\n\nHistory is ideal for history buffs and anyone who enjoys learning about the past. It offers fascinating stories and insights into how the world came to be.",
+      "description": "ヒストリーチャンネルは、歴史をテーマにした国際的な専門チャンネルの日本版です。\n\n世界史や日本史のドキュメンタリー、歴史の謎に迫る番組、戦史、古代文明、発明の歴史など、知的好奇心をくすぐる番組を放送しています。\n\n過去を知ることで今が見えてくる、歴史好きにおすすめのチャンネルです。",
       "live": true,
       "featured": false
     },
@@ -714,7 +714,7 @@
       "stream_type": "hls",
       "category_id": 4,
       "country": "Japan",
-      "description": "TBS News is the TBS group's dedicated 24-hour news channel, available via CS satellite and cable in Japan and connected to the TBS NEWS DIG news brand. It draws on the reporting resources of TBS and the JNN news network.\n\nTBS News provides continuous coverage of domestic and international news, including politics, economics, society and weather. It also features breaking news, press conferences and in-depth news programmes.\n\nTBS News is a dependable channel for staying informed about what is happening in Japan and around the world. It is ideal for viewers who want to check the news whenever it suits them.",
+      "description": "TBS NEWSは、TBSグループが運営する24時間ニュース専門チャンネルです。\n\n国内外のニュース、政治・経済、事件・事故、天気、スポーツなど、最新情報をいつでもお届けしています。大きな出来事が起きたときには、詳しい中継や解説で状況を伝えます。\n\nいま日本で何が起きているのかを知りたいときに頼れるチャンネルです。",
       "live": true,
       "featured": false
     }
