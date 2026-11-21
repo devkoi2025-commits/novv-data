@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "OTTAVA",
-    "description": "Japanese classical music station with curated programs from Tokyo",
+    "description": "東京発のクラシック音楽専門ステーション。こだわりの選曲とプレゼンターによる番組で、名曲の魅力をゆったりと届けます。",
     "image": "https://ottava.jp/img/common/touch_icon.png",
     "stream_url": "https://ottava2.out.airtime.pro/ottava2_a",
     "stream_type": "mp3",
@@ -12,7 +12,7 @@
   {
     "id": 2,
     "name": "AFN Tokyo - The Eagle 810",
-    "description": "American Forces Network radio from Yokota Air Base, Tokyo, serving US service members in Japan with music, news and information in English.",
+    "description": "東京・横田基地から放送される米軍放送（AFN）。在日米軍の関係者に向けて、英語で音楽・ニュース・生活情報をお届けします。",
     "image": "https://cdn-radiotime-logos.tunein.com/s287011d.png",
     "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_TKO.mp3",
     "stream_type": "mp3",
@@ -22,7 +22,7 @@
   {
     "id": 3,
     "name": "AFN Okinawa 89.1",
-    "description": "American Forces Network station on Okinawa, broadcasting English-language music, news and community information for US forces.",
+    "description": "沖縄の米軍放送（AFN）ステーション。英語による音楽やニュース、コミュニティ情報を在沖米軍向けに放送しています。",
     "image": "https://station-images-prod.radio-assets.com/300/afn-360-okinawa-japan-only.png",
     "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_OKN.mp3",
     "stream_type": "mp3",
@@ -32,7 +32,7 @@
   {
     "id": 4,
     "name": "AFN Sasebo 93.1",
-    "description": "American Forces Network station in Sasebo, Nagasaki, serving US Navy personnel and families with English-language music and information.",
+    "description": "長崎県佐世保の米軍放送（AFN）。米海軍の関係者とその家族に向けて、英語の音楽や情報をお届けします。",
     "image": "https://cdn-profiles.tunein.com/s14578/images/logod.png",
     "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_SBO.mp3",
     "stream_type": "mp3",
@@ -42,7 +42,7 @@
   {
     "id": 5,
     "name": "AFN Misawa 1575",
-    "description": "American Forces Network station at Misawa Air Base, Aomori, with English-language music, news and base information.",
+    "description": "青森県・三沢基地の米軍放送（AFN）。英語の音楽、ニュース、基地の生活情報を放送しています。",
     "image": "https://cdn-profiles.tunein.com/s14574/images/logod.png",
     "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_MSW.mp3",
     "stream_type": "mp3",
@@ -52,7 +52,7 @@
   {
     "id": 6,
     "name": "AFN Iwakuni 1575",
-    "description": "American Forces Network station at MCAS Iwakuni, Yamaguchi, with English-language music, news and community information.",
+    "description": "山口県・岩国基地の米軍放送（AFN）。英語の音楽やニュース、地域のコミュニティ情報をお届けします。",
     "image": "https://cdn-profiles.tunein.com/s14580/images/logod.png",
     "stream_url": "https://playerservices.streamtheworld.com/api/livestream-redirect/AFNP_IWA.mp3",
     "stream_type": "mp3",
@@ -62,7 +62,7 @@
   {
     "id": 7,
     "name": "FM Setagaya 83.4",
-    "description": "Tokyo community FM for Setagaya ward: local news, talk and music",
+    "description": "東京都世田谷区のコミュニティFM。地域のニュースやトーク、音楽で、世田谷の暮らしを身近に伝えます。",
     "image": "https://fmsetagaya.com/wp/wp-content/uploads/2019/01/cropped-icon512.gif",
     "stream_url": "https://fmsetagaya834.out.airtime.pro/fmsetagaya834_a",
     "stream_type": "mp3",
@@ -72,7 +72,7 @@
   {
     "id": 8,
     "name": "Shonan Beach FM 78.9",
-    "description": "Licensed community FM from Zushi/Hayama, Kanagawa: jazz, Hawaiian and smooth sounds by the sea",
+    "description": "神奈川県逗子・葉山のコミュニティFM。海辺の空気にぴったりのジャズやハワイアン、心地よいサウンドを一日中流しています。",
     "image": "https://www.beachfm.co.jp/wp-content/themes/welcart_basic-voll-beachfm/img/common/logo_sidemenu.png",
     "stream_url": "https://shonanbeachfm.out.airtime.pro/shonanbeachfm_a",
     "stream_type": "mp3",
@@ -82,7 +82,7 @@
   {
     "id": 9,
     "name": "FM Kahoku 78.7",
-    "description": "Community FM from Kahoku, Ishikawa, covering Kahoku, Uchinada and Tsubata with locally produced talk, music and disaster information.",
+    "description": "石川県かほく市のコミュニティFM。かほく市・内灘町・津幡町に向けて、地元制作のトークや音楽、防災情報をお届けします。",
     "image": "https://fm.kahoku.net/wp-content/uploads/2017/11/cropped-favicon_fmkahoku-192x192.jpg",
     "stream_url": "https://radio.kahoku.net:8443/;",
     "stream_type": "mp3",
@@ -92,7 +92,7 @@
   {
     "id": 10,
     "name": "FM N1 76.3",
-    "description": "Community FM from Nonoichi, Ishikawa, run together with local students, with local talk and music.",
+    "description": "石川県野々市市のコミュニティFM。地元の学生たちと一緒に、地域密着のトークや音楽番組を放送しています。",
     "image": "https://www.fmn1.jp/wp-content/themes/fmn12024/images/ogp.png",
     "stream_url": "https://hls.fmn1.jp/fmn1/live01.m3u8",
     "stream_type": "hls",
@@ -102,7 +102,7 @@
   {
     "id": 11,
     "name": "Tannan Yume Radio 79.1",
-    "description": "Non-profit community FM from Sabae, Fukui, serving the Tannan area with original local programs.",
+    "description": "福井県鯖江市のNPOによるコミュニティFM。丹南地域に向けて、地元ならではのオリジナル番組をお届けします。",
     "image": "https://tannan.fm/webclip-icon.png",
     "stream_url": "https://tannan.mediaservice.jp:7910/;",
     "stream_type": "mp3",
@@ -112,7 +112,7 @@
   {
     "id": 12,
     "name": "FMYY 77.8 Kobe",
-    "description": "Multilingual community FM from Nagata, Kobe, born after the 1995 Great Hanshin earthquake",
+    "description": "神戸市長田区の多言語コミュニティFM。1995年の阪神・淡路大震災をきっかけに生まれ、多文化共生の声を届け続けています。",
     "image": "https://tcc117.jp/fmyy/wp-content/uploads/2017/02/cropped-yyfavicon-180x180.png",
     "stream_url": "https://tcc117.jp/fmyy/asx/simulbroadcast.mp3",
     "stream_type": "mp3",
@@ -122,7 +122,7 @@
   {
     "id": 13,
     "name": "FM Tsuyama 78.0",
-    "description": "Citizen-run community FM from Tsuyama, Okayama, with local news, talk and music.",
+    "description": "岡山県津山市の市民によるコミュニティFM。地域のニュースやトーク、音楽で津山の毎日を伝えます。",
     "image": "https://cdn.onlineradiobox.com/img/l/7/67907.v2.png",
     "stream_url": "https://onair.fm-tsuyama.jp/fmtsuyama_live.ogg",
     "stream_type": "ogg",
@@ -132,7 +132,7 @@
   {
     "id": 14,
     "name": "RadiCro",
-    "description": "Japanese internet radio with talk and music shows",
+    "description": "トークと音楽番組を楽しめる日本のインターネットラジオです。",
     "image": "https://radicro.com/images/webclip.png",
     "stream_url": "https://radicrojapan.out.airtime.pro/radicrojapan_b",
     "stream_type": "mp3",
@@ -142,7 +142,7 @@
   {
     "id": 15,
     "name": "Ashiya Radio",
-    "description": "Bossa nova, piano jazz and cafe music from Ashiya, Hyogo",
+    "description": "兵庫県芦屋から届ける、ボサノバやピアノジャズ、カフェミュージック。おしゃれでくつろげるひとときに。",
     "image": "https://static.wixstatic.com/media/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png/v1/fill/w_512,h_512,al_c/da9e0b_7c54de8c1f934d67bdab3cec46be5c3e~mv2.png",
     "stream_url": "https://s3.radio.co/sc8d895604/listen",
     "stream_type": "aac",
@@ -152,7 +152,7 @@
   {
     "id": 16,
     "name": "Gotanno FM",
-    "description": "Japanese internet radio (Gotanno 89.2) streaming Japanese indie and doujin music 24/7.",
+    "description": "日本のインディーズや同人音楽を24時間流し続けるインターネットラジオ（五反野89.2）。",
     "image": "https://yt3.googleusercontent.com/ytc/AIdro_mdnuovYgEJ9KclQYa5ECb4eR_94VbI-hNx4-Ml5YA7OQ=s300-c-k-c0x00ffffff-no-rj",
     "stream_url": "https://radio.gotanno.love/",
     "stream_type": "mp3",
@@ -162,7 +162,7 @@
   {
     "id": 17,
     "name": "Hitsujikai Radio",
-    "description": "Japanese Christian internet radio from a church in Shibetsu, Hokkaido, with Bible stories, sermons and soft music.",
+    "description": "北海道士別市の教会によるキリスト教インターネットラジオ。聖書のお話やメッセージ、やさしい音楽をお届けします。",
     "image": "https://images.radio.co/station_logos/se4a8e6a93.jpg",
     "stream_url": "https://streaming.radio.co/se4a8e6a93/listen",
     "stream_type": "mp3",
@@ -172,7 +172,7 @@
   {
     "id": 18,
     "name": "Friendship Radio",
-    "description": "Japanese-language Christian broadcaster that began in 1987 as Japan's first 24-hour Christian radio service.",
+    "description": "1987年に日本初の24時間キリスト教ラジオとして始まった、日本語のキリスト教放送です。",
     "image": "https://cdn.onlineradiobox.com/img/l/1/94731.v2.png",
     "stream_url": "http://198.7.59.28:8028/stream",
     "stream_type": "mp3",
@@ -182,7 +182,7 @@
   {
     "id": 19,
     "name": "Radio Hayama",
-    "description": "Internet radio from Hayama, Kanagawa, playing pop, alternative, ambient and jazzy music.",
+    "description": "神奈川県葉山のインターネットラジオ。ポップ、オルタナティブ、アンビエント、ジャズ系のサウンドを流しています。",
     "image": "https://cdn-radiotime-logos.tunein.com/s155398d.png",
     "stream_url": "https://server10.reliastream.com/proxy/radiohayama",
     "stream_type": "mp3",
@@ -192,7 +192,7 @@
   {
     "id": 20,
     "name": "Tokyo City FM",
-    "description": "Tokyo internet station with curated talk, city sounds and chill music.",
+    "description": "東京のインターネットラジオ。厳選したトークや街の音、チルな音楽で都会のひとときを彩ります。",
     "image": "https://cdn-profiles.tunein.com/s350481/images/logod.jpg",
     "stream_url": "https://streamer.radio.co/s6117a960f/listen",
     "stream_type": "mp3",
@@ -202,7 +202,7 @@
   {
     "id": 21,
     "name": "Future Groove FM",
-    "description": "Tokyo-based 24/7 internet radio with DJ shows of house, EDM, trance, bass and techno.",
+    "description": "東京発、24時間配信のインターネットラジオ。ハウス、EDM、トランス、ベース、テクノなどのDJ番組を楽しめます。",
     "image": "https://futuregroovefm.com/assets/images/card.jpg",
     "stream_url": "https://streamer.radio.co/s4b3dafa6d/listen",
     "stream_type": "mp3",
@@ -212,7 +212,7 @@
   {
     "id": 22,
     "name": "Moon Mission Recordings",
-    "description": "Tokyo deep house, techno and electronic music from the Moon Mission label of DJ Ken Sekiguchi.",
+    "description": "DJ Ken Sekiguchiのレーベル「Moon Mission」による、東京発のディープハウス、テクノ、エレクトロニックミュージック。",
     "image": "https://station-images-prod.radio-assets.com/300/moonmission.png",
     "stream_url": "https://uk5.internet-radio.com/proxy/mmr?mp=/stream",
     "stream_type": "mp3",
@@ -222,7 +222,7 @@
   {
     "id": 23,
     "name": "Radio Eigekai Indies",
-    "description": "Tokyo internet radio featuring Japanese and Asian indie sounds, rock, psychedelic, techno and pop.",
+    "description": "日本とアジアのインディーサウンドを中心に、ロック、サイケデリック、テクノ、ポップを届ける東京のインターネットラジオ。",
     "image": "https://station-images-prod.radio-assets.com/300/eigekai.png",
     "stream_url": "https://stream.radiojar.com/66zgtscuc1duv",
     "stream_type": "mp3",
@@ -232,7 +232,7 @@
   {
     "id": 24,
     "name": "Moss Garden",
-    "description": "Tokyo ambient radio stream for rest, calm or focus.",
+    "description": "休息やリラックス、集中したいときにぴったりな、東京発のアンビエントラジオ。",
     "image": "",
     "stream_url": "https://radio.moss.garden/listen/moss_garden/radio.mp3",
     "stream_type": "mp3",
@@ -242,7 +242,7 @@
   {
     "id": 25,
     "name": "The Kyoto Connection Radio",
-    "description": "Curated stream of Japanese ambient, environmental, instrumental and new age music.",
+    "description": "日本のアンビエント、環境音楽、インストゥルメンタル、ニューエイジを厳選して届けるストリーム。",
     "image": "https://www.thekyotoconnection.com/wp-content/uploads/2025/01/cropped-Logo-192x192.jpg",
     "stream_url": "https://server.laradio.online:59009/live",
     "stream_type": "mp3",
@@ -252,7 +252,7 @@
   {
     "id": 26,
     "name": "Nonstop Casiopea",
-    "description": "24/7 Japanese jazz fusion from Casiopea and T-Square, streamed from Niigata.",
+    "description": "カシオペアとT-SQUAREを中心に、日本のジャズフュージョンを24時間ノンストップで。新潟から配信しています。",
     "image": "https://cdn-profiles.tunein.com/s268922/images/logod.png",
     "stream_url": "https://nonstopcasiopea.radioca.st/",
     "stream_type": "mp3",
@@ -262,7 +262,7 @@
   {
     "id": 27,
     "name": "SOUND UP STATION NFRS",
-    "description": "24-hour internet radio from Osaka with Japanese indie music, talk shows and radio programs.",
+    "description": "大阪発、24時間のインターネットラジオ。日本のインディーズ音楽やトーク番組、ラジオ番組をお届けします。",
     "image": "https://cdn-profiles.tunein.com/s336649/images/logod.jpg",
     "stream_url": "https://stream.rcast.net/70945",
     "stream_type": "mp3",
@@ -272,7 +272,7 @@
   {
     "id": 28,
     "name": "Tenshi no Hashigo (Angel's Ladder)",
-    "description": "Japanese internet radio broadcasting talk and music from Osaka and Tsu, Mie.",
+    "description": "大阪と三重県津市から、トークと音楽を届ける日本のインターネットラジオです。",
     "image": "https://cdn-profiles.tunein.com/s354800/images/logod.jpg",
     "stream_url": "https://listen.radioking.com/radio/552224/stream/611507",
     "stream_type": "mp3",
@@ -282,7 +282,7 @@
   {
     "id": 29,
     "name": "FM Hime (Yodogawa Bousai Radio)",
-    "description": "Small Japanese-language talk station from Osaka focused on the Yodogawa area and disaster preparedness.",
+    "description": "大阪・淀川エリアと防災をテーマにした、日本語の小さなトーク局です。",
     "image": "https://station-images-prod.radio-assets.com/300/fmhime.png",
     "stream_url": "http://us4.internet-radio.com:8059/live",
     "stream_type": "mp3",
@@ -292,7 +292,7 @@
   {
     "id": 30,
     "name": "Kimino FM88",
-    "description": "Community internet radio from Wakayama with local disaster, event and tourism information plus music.",
+    "description": "和歌山のコミュニティ・インターネットラジオ。防災情報やイベント、観光情報と音楽をお届けします。",
     "image": "https://station-images-prod.radio-assets.com/300/fm88-1.png",
     "stream_url": "http://us3.internet-radio.com:8245/live",
     "stream_type": "mp3",
@@ -302,7 +302,7 @@
   {
     "id": 31,
     "name": "Good-AIR! Radio",
-    "description": "Internet radio from Kumamoto with local talk and music.",
+    "description": "熊本発のインターネットラジオ。地元のトークと音楽を楽しめます。",
     "image": "https://cdn-profiles.tunein.com/s344103/images/logod.png",
     "stream_url": "https://streamer.radio.co/sdf24a3527/listen",
     "stream_type": "mp3",
@@ -312,7 +312,7 @@
   {
     "id": 32,
     "name": "Yatsushiro Radio",
-    "description": "Internet station from Yatsushiro, Kumamoto, with local events, tourism and city information plus music.",
+    "description": "熊本県八代市のインターネット局。地域のイベントや観光、市の情報と音楽をお届けします。",
     "image": "https://cdn-profiles.tunein.com/s351018/images/logod.png",
     "stream_url": "https://a13.asurahosting.com/listen/%E3%83%A4%E3%83%84%E3%82%B7%E3%83%AD%E3%83%A9%E3%82%B8%E3%83%B2_from_good-air/radio.mp3",
     "stream_type": "mp3",
@@ -322,7 +322,7 @@
   {
     "id": 33,
     "name": "Radio Shiga",
-    "description": "Portuguese-language web radio from Koka, Shiga, serving the Brazilian community in Japan.",
+    "description": "滋賀県甲賀市から、日本で暮らすブラジル人コミュニティに向けて放送するポルトガル語のウェブラジオです。",
     "image": "https://i0.wp.com/wp.radioshiga.com/wp-content/uploads/2023/11/logo-114x114-1.png",
     "stream_url": "https://sv10.hdradios.net:21920/stream",
     "stream_type": "aac",
@@ -332,7 +332,7 @@
   {
     "id": 34,
     "name": "Radio Mega Mix Japan",
-    "description": "Portuguese-language radio from Mie for the Brazilian community in Japan, with Brazilian and international music.",
+    "description": "三重県から、在日ブラジル人コミュニティに向けて放送するポルトガル語ラジオ。ブラジル音楽や世界の音楽を流しています。",
     "image": "https://cdn-profiles.tunein.com/s223498/images/logod.png",
     "stream_url": "https://c36.radioboss.fm:8135/stream",
     "stream_type": "mp3",
@@ -342,7 +342,7 @@
   {
     "id": 35,
     "name": "Super Tokio Radio",
-    "description": "Spanish-language radio in Japan with Latin music, news and culture about Japan.",
+    "description": "日本で放送するスペイン語ラジオ。ラテン音楽やニュース、日本の文化情報をお届けします。",
     "image": "https://cdn.supertokio.com/2025/01/cropped-512x_STR_ROGO_T-192x192.png",
     "stream_url": "https://streamer.radio.co/s83eb8ff39/listen",
     "stream_type": "mp3",
@@ -352,7 +352,7 @@
   {
     "id": 36,
     "name": "MILC - Milraji Interactive Live Channel",
-    "description": "Japanese 24-hour internet stream of music submitted by independent creators (songs not managed by JASRAC); still in development.",
+    "description": "インディーズのクリエイターが投稿した音楽（JASRAC管理外の楽曲）を24時間流す日本のインターネット配信。現在も開発中です。",
     "image": "https://radio.milradio.info/milc.jpg",
     "stream_url": "https://radio.milradio.info:9000/milcpod.m3u8",
     "stream_type": "hls",
@@ -362,7 +362,7 @@
   {
     "id": 37,
     "name": "Retro PC Game Music Radio",
-    "description": "Japanese streaming radio of PC game music from the 1980s to mid-1990s, run by the Gyusyabu site.",
+    "description": "1980年代から90年代半ばのPCゲーム音楽を流す日本のストリーミングラジオ。サイト「Gyusyabu」が運営しています。",
     "image": "https://cdn-radiotime-logos.tunein.com/s97839d.png",
     "stream_url": "http://gyusyabu.ddo.jp:8000/",
     "stream_type": "mp3",
@@ -372,7 +372,7 @@
   {
     "id": 38,
     "name": "CyberForest Fuji (Lake Yamanaka)",
-    "description": "Live nature soundscape from the University of Tokyo CyberForest microphone at Fuji Iyashinomori Woodland, Lake Yamanaka.",
+    "description": "山中湖畔「富士癒しの森研究所」に設置された、東京大学サイバーフォレストのマイクから届く、森の生の音風景。",
     "image": "http://cyberforest.nenv.k.u-tokyo.ac.jp/image/yamanakako.jpg",
     "stream_url": "http://mp3s.nc.u-tokyo.ac.jp/Fuji_CyberForest.mp3",
     "stream_type": "mp3",
@@ -382,7 +382,7 @@
   {
     "id": 39,
     "name": "CyberForest Otsuchi Coast",
-    "description": "Live coastal soundscape from the University of Tokyo CyberForest microphone at Otohama, Otsuchi, Iwate.",
+    "description": "岩手県大槌町・大浜に設置された、東京大学サイバーフォレストのマイクから届く、海辺の生の音風景。",
     "image": "http://cyberforest.nenv.k.u-tokyo.ac.jp/image/otohama3.jpg",
     "stream_url": "http://mp3s.nc.u-tokyo.ac.jp/OTSUCHI_CyberForest.mp3",
     "stream_type": "mp3",
@@ -392,7 +392,7 @@
   {
     "id": 40,
     "name": "LISTEN.moe J-Pop",
-    "description": "Non-stop J-pop and anime songs, 24/7",
+    "description": "J-POPとアニソンを24時間ノンストップで流し続けるストリームです。",
     "image": "https://listen.moe/images/share.jpg",
     "stream_url": "https://listen.moe/fallback",
     "stream_type": "mp3",
@@ -402,7 +402,7 @@
   {
     "id": 41,
     "name": "Gensokyo Radio",
-    "description": "24/7 Touhou Project music and arrangements",
+    "description": "東方Projectの音楽とアレンジ曲を24時間お届けします。",
     "image": "https://cdn.gensokyoradio.net/images/gr8_logo.png",
     "stream_url": "https://stream.gensokyoradio.net/1",
     "stream_type": "mp3",
@@ -412,7 +412,7 @@
   {
     "id": 42,
     "name": "R/a/dio",
-    "description": "Anime and J-pop with live DJs",
+    "description": "アニソンとJ-POPを、ライブDJとともに楽しめるラジオです。",
     "image": "https://r-a-d.io/assets/images/apple_touch_icon.png",
     "stream_url": "https://relay0.r-a-d.io/main.mp3",
     "stream_type": "mp3",
@@ -422,7 +422,7 @@
   {
     "id": 43,
     "name": "J1 HITS",
-    "description": "Current Japanese chart hits and favorites from J1 Radio (streams from Canada).",
+    "description": "J1 Radioがお届けする、最新の日本のヒットチャートと人気曲（カナダから配信）。",
     "image": "https://cdn-profiles.tunein.com/s261285/images/logod.png",
     "stream_url": "https://jenny.torontocast.com:2000/stream/J1HITS",
     "stream_type": "mp3",
@@ -432,7 +432,7 @@
   {
     "id": 44,
     "name": "J1 GOLD",
-    "description": "Late Showa-era Japanese hits from the 60s to 80s, from enka to city pop (J1 Radio, streams from Canada).",
+    "description": "60〜80年代の昭和の名曲を、演歌からシティポップまで。J1 Radioが配信しています（カナダから配信）。",
     "image": "https://cdn-profiles.tunein.com/s296850/images/logod.png",
     "stream_url": "https://jenny.torontocast.com:2000/stream/J1GOLD",
     "stream_type": "mp3",
@@ -442,7 +442,7 @@
   {
     "id": 45,
     "name": "asia DREAM radio - Japan Hits",
-    "description": "Current J-pop Top 40 hits from the asia DREAM radio network (streams from Canada).",
+    "description": "asia DREAM radioネットワークによる、最新J-POPトップ40ヒット（カナダから配信）。",
     "image": "https://cdn-profiles.tunein.com/s348063/images/logod.png",
     "stream_url": "https://quincy.torontocast.com:2020/stream.mp3",
     "stream_type": "mp3",
@@ -452,7 +452,7 @@
   {
     "id": 46,
     "name": "BOX : Japan City Pop",
-    "description": "Japanese city pop from the 70s and 80s, from the BOX Radio network.",
+    "description": "BOX Radioネットワークがお届けする、70〜80年代の日本のシティポップ。",
     "image": "https://cdn-profiles.tunein.com/s341316/images/logod.jpg",
     "stream_url": "https://play.streamafrica.net/japancitypop",
     "stream_type": "mp3",
